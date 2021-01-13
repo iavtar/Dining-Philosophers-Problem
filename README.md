@@ -4,6 +4,8 @@ Multithreaded Solution using Java
 
 ## Problem Statement
 
+### The problem is formulated by Dijkstra in 1965
+
 5 Philosophers are present at a table and there are 5 forks (chopsticks)
 
 The philosopher can eat and think
